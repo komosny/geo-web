@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+folium==0.16.0
+geonamescache==2.0.0
+geopandas==0.14.3
+humanize==3.13.1
+ipython==8.12.3
+joblib==1.4.0
+matplotlib==3.8.4
+numpy==2.0.1
+pandas==2.2.2
+Requests==2.32.3
+requests_ratelimiter==0.7.0
+Shapely==2.0.5
+tqdm==4.66.2
+pyarrow==17.0.0
